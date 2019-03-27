@@ -1,3 +1,3 @@
 ﻿  Sortiranje.cpp
-c:\users\uc-m20\documents\sonja kriskovic\bootcamp-2\2 - 2 dan _ 22_3_2019\sortiranje\sortiranje\sortiranje.cpp(93): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m20\documents\sonja kriskovic\bootcamp-2\2 - 2 dan _ 22_3_2019\sortiranje\sortiranje\sortiranje.cpp(110): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Sortiranje.vcxproj -> C:\Users\UC-M20\Documents\Sonja Kriskovic\Bootcamp-2\2 - 2 dan _ 22_3_2019\Sortiranje\Debug\Sortiranje.exe
